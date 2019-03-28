@@ -1,5 +1,3 @@
-Deanne Chan (W1393868)
-
 Files:
 - Client2 folder
     - Client.c
